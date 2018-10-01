@@ -1,0 +1,7 @@
+{
+  "name": "acd",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
